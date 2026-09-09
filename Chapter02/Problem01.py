@@ -1,3 +1,4 @@
+# Write a python program to add two numbers.
 print("Input the value of the first number")
 a = int(input("=>"))
 print("Input the value of the second number")
