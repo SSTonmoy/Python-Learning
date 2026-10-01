@@ -1,0 +1,6 @@
+Sometimes people get angry and say things like "f***," "s***," or "d***" when something goes wrong.
+Someone might call another person a "b****," "b******," or "a******" during an argument.
+Other words such as "c***," "h***," "d***," and "p***" can also appear in informal or 
+offensive conversations.
+A good text-filtering system can detect these words and replace them with symbols 
+such as asterisks while leaving the rest of the sentence readable.

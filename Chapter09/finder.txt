@@ -1,0 +1,8 @@
+Yesterday, I decided to import some old notes before I defined a new study plan.
+If the weather was good, I would forget the usual routine and walk outside,
+else I would stay home. While reading, 
+I noticed that True and False were written on the same page, 
+but None of the examples made much sense. 
+I thought I could return to the topic later, 
+although I knew I should continue practicing instead of waiting for the perfect time.
+Python
